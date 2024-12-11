@@ -12,7 +12,7 @@ function Sidenav() {
 
       <h1 className='text-2xl text-white font-bold '>
         <i className="text-[#6556CD] ri-tv-fill mr-3"></i>
-        <span className='text-2xl'>SCSDB</span>
+        <span className='text-2xl'>MOVIEAPP</span>
       </h1>
       <nav className='flex flex-col text-zinc-400 text-xl gap-3'>
           <h1 className='text-white font-semibold text-xl mt-10 mb-5 '>
